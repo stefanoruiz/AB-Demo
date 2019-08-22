@@ -1,2 +1,2 @@
-# AB-Demo
-Simple front-end A/B experiment - [view it live!](https://lambdaschool.github.io/AB-Demo/)
+# AB-Demo / Stefano Ruiz
+Simple front-end A/B experiment - [Head over to my portfolio!](https://stefanoruiz.github.io)
